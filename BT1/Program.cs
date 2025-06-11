@@ -20,7 +20,7 @@ namespace BT1
 
                 Console.WriteLine("Giá trị H là: " + result);
 
-                // Ghi kết quả vào file
+                
                 File.WriteAllText("input.txt", $"x = {x}, y = {y}, H = {result}");
             }
             catch (DivideByZeroException ex)
@@ -67,7 +67,7 @@ namespace BT1
             return Math.Sqrt(giaTri);
         }
 
-        // Ngoại lệ tự định nghĩa
+        
         public class NotNegativeException : Exception
         {
             public NotNegativeException(string message) : base(message) { }
