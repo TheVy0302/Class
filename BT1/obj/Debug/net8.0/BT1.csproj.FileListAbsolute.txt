@@ -1,0 +1,14 @@
+C:\C# new mon\BT1\bin\Debug\net8.0\BT1.exe
+C:\C# new mon\BT1\bin\Debug\net8.0\BT1.deps.json
+C:\C# new mon\BT1\bin\Debug\net8.0\BT1.runtimeconfig.json
+C:\C# new mon\BT1\bin\Debug\net8.0\BT1.dll
+C:\C# new mon\BT1\bin\Debug\net8.0\BT1.pdb
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.AssemblyInfoInputs.cache
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.AssemblyInfo.cs
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.csproj.CoreCompileInputs.cache
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.dll
+C:\C# new mon\BT1\obj\Debug\net8.0\refint\BT1.dll
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.pdb
+C:\C# new mon\BT1\obj\Debug\net8.0\BT1.genruntimeconfig.cache
+C:\C# new mon\BT1\obj\Debug\net8.0\ref\BT1.dll
